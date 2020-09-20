@@ -1,14 +1,8 @@
 body
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
     color: blue;
-=======
     color: red;
->>>>>>> cabecera
-=======
     color: #333;
->>>>>>> cabecera
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -45,7 +39,6 @@ body
 #container h1
 {
     font-size: 20px;
-<<<<<<< HEAD
 }body
 {
     color: #333;
@@ -85,8 +78,6 @@ body
 #container h1
 {
     font-size: 20px;
-=======
->>>>>>> cabecera
 }
 #post
 {
